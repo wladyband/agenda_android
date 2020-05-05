@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CadastroAgendaAlunos</string>
+    <string name="salvar_aluno">Salvar o aluno</string>
+</resources>
